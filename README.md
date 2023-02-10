@@ -23,3 +23,4 @@ Getting started:
     - Get intent and entity to do a command on the turtlebot
   - Figure out how to write a script to automatically launch things
   - Figure out a better way to connect to the Reverb board (maybe over wifi? with a usb connector)
+  
